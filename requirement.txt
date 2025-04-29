@@ -5,7 +5,7 @@ matplotlib
 seaborn
 plotly
 bertopic
-corextopic-py
+corextopic
 scikit-learn
 sentence-transformers
 langchain-community
@@ -17,5 +17,3 @@ wordcloud
 nltk
 openpyxl
 Pillow
-
-
