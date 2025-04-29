@@ -18,3 +18,4 @@ nltk
 openpyxl
 Pillow
 matplotlib==3.8.0
+
